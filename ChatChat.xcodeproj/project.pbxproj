@@ -182,8 +182,8 @@
 				TargetAttributes = {
 					BB5355751BEF765800321277 = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = EWU83H92V3;
 						LastSwiftMigration = 0800;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.Keychain = {
 								enabled = 1;
@@ -407,7 +407,7 @@
 				CODE_SIGN_ENTITLEMENTS = ChatChat/ChatChat.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = EWU83H92V3;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ChatChat/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -430,7 +430,7 @@
 				CODE_SIGN_ENTITLEMENTS = ChatChat/ChatChat.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = EWU83H92V3;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ChatChat/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
